@@ -5,4 +5,5 @@ A CLI command timer written in Rust
 
 ## Installation
 - Clone the repo
+- Build the binary - `cargo build`
 - Install the binary to bin using - `cargo install --path .`
