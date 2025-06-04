@@ -8,4 +8,4 @@ A CLI command timer written in Rust
 - Build the binary
 - Run the program
   - Syntax: `rtimer.exe 'command'` or `./rtimer 'command'`
-  - If on Linux or Mac, you will need to `chmod +x` the binary
+- Install the binary in bin using - `cargo install --path .`
